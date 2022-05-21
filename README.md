@@ -1,4 +1,4 @@
-- 👋 Hey there and welcome to my GitHub profile! I’m Uyen Khuong Tran
+- 👋 I’m Uyen Khuong Tran
 - 👀 I’m interested in Coding and Testing
 - 🌱 I’m currently learning automation framework using Sprint Boot - Selenium - Cucumber
 - 💞️ I’m looking to collaborate on ...
